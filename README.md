@@ -1,6 +1,4 @@
-﻿Here's a professional and concise **GitHub description** for your **URL Shortener API** project:  
-
----
+﻿ 
 
 # **URL Shortener API** 🚀  
 
@@ -47,10 +45,4 @@ dotnet run
 | `/api/shortlink/{code}` | `GET`   | Redirect to original URL |
 | `/api/stats/{code}`     | `GET`   | Get click analytics |
 | `/api/qrcode/{code}`    | `GET`   | Generate QR Code |
-
-## **Contributing** 🤝  
-Feel free to submit issues or pull requests to improve the project!  
-
----
-
-This description is well-structured, professional, and **GitHub-friendly**. Let me know if you need any modifications! 🚀# UrlShortenerApi01
+ 
